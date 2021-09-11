@@ -8,6 +8,6 @@ See `mincore` folder.
 
 See `uss` folder.
 
-## Active and Inective LRU list content per file
+## Active and Inective LRU lists content for a file
 
 See `lru` folder.
